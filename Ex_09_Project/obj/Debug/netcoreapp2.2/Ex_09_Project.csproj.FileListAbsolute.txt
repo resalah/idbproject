@@ -1,0 +1,138 @@
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.deps.json
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.json
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.dev.json
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.dll
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.pdb
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.dll
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csproj.CoreCompileInputs.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfoInputs.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfo.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.input.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.output.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorCoreGenerate.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\SPA\Index.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewStart.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Summary.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_DepartmentSummary.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.dll
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.pdb
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csproj.CopyComplete
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewImports.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csprojAssemblyReference.cache
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Create.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Delete.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Edit.g.cshtml.cs
+D:\ESADR39\Module 09\Ex_09_Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.deps.json
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.json
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.dev.json
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.dll
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.pdb
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.dll
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csprojAssemblyReference.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csproj.CoreCompileInputs.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfoInputs.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfo.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.input.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.output.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorCoreGenerate.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\SPA\Index.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewImports.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewStart.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Summary.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Create.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Delete.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Edit.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_DepartmentSummary.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cache
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cs
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.dll
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.pdb
+H:\All Projects\MVC Core_Project\2_1247046 Jamir Uddin\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csproj.CopyComplete
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\appsettings.Development.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\appsettings.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\libman.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.deps.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.runtimeconfig.dev.json
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.dll
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.pdb
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.dll
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\bin\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csprojAssemblyReference.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorAssemblyInfo.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfoInputs.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.AssemblyInfo.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.input.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.TagHelpers.output.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorCoreGenerate.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\SPA\Index.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewImports.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Angular\Views\_ViewStart.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Summary.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Create.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Delete.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Edit.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Employees\Index.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_DepartmentSummary.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cache
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.RazorTargetAssemblyInfo.cs
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.Views.pdb
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.dll
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.pdb
+H:\Project\Ex_09_Project_Solution\Ex_09_Project\obj\Debug\netcoreapp2.2\Ex_09_Project.csproj.CopyComplete

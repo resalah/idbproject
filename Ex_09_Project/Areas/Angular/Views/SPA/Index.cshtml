@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row" ng-app="empApp">
+    <div class="col" ng-controller="empCtrl">
+        <h2>Employee List</h2>
+        <table class="table table-bordered table-striped">
+            <thead class="thead-light">
+                <tr>
+                    <th>Emp. Name</th>
+                    <th>Emp. Join Date</th>
+                    <th>Grade</th>
+                    <th>Department</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="emp in model.employees|orderBy:'employeeId'|paging:selectedPage:pageSize">
+                    <td>{{emp.employeeName}}</td>
+                    <td>{{emp.joinDate|date:'yyyy-mm-dd'}}</td>
+                    <td>{{emp.grade}}</td>
+                    <td>{{emp.departmentName}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="d-flex justify-content-end">
+            <ul class="pagination pagination-sm">
+                <li class="page-item" ng-repeat=
+                "page in model.employees |pageCount:pageSize"
+                ng-click="selectPage($index + 1)" ng-class="selectedPage==$index + 1 ? 'active': ''"><a class="page-link" href="#">{{$index + 1}}</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+@section Scripts{ 
+    <environment include="Development, Production">
+        <script src="~/lib/angular/angular.js"></script>
+        <script>
+            angular.module("empApp", [])
+            .controller("empCtrl", ($scope, $http) => {
+                $scope.model = {};
+                $scope.selectedPage = 1;
+                $scope.pageSize = 5;
+                $http.get("/Angular/SPA/ProductList")
+                .then((result) => {
+                    $scope.model.employees =result.data;
+                }, (err) => {
+                    $scope.model.employees = [];
+                    //console.log(err);
+                });
+                $scope.selectPage = function (newPage) {
+                    $scope.selectedPage = newPage;
+                }
+            }).filter("paging", function ($filter) {
+                return function (data, page, size) {
+                    if (angular.isArray(data) && angular.isNumber(page) && angular.isNumber(size)) {
+                        var start_index = (page - 1) * size;
+                        if (data.length < start_index) {
+                            return [];
+                        } else {
+                            return $filter("limitTo")(data.splice(start_index), size);
+                        }
+                    } else {
+                        return data;
+                    }
+                }
+            })
+            .filter("pageCount", function () {
+                return function (data, size) {
+                    if (angular.isArray(data)) {
+                        var result = [];
+                        for (var i = 0; i < Math.ceil(data.length / size) ; i++) {
+                            result.push(i);
+                        }
+                        return result;
+                    } else {
+                        return data;
+                    }
+                }
+            });
+        </script>
+    </environment>
+}
+

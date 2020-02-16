@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "jquery-ajax-unobtrusive@3.2.6",
+      "destination": "wwwroot/lib/ajax"
+    },
+    {
+      "library": "font-awesome@4.7.0",
+      "destination": "wwwroot/lib/font-awesome"
+    },
+    {
+      "library": "angular.js@1.7.8",
+      "destination": "wwwroot/lib/angular"
+    },
+    {
+      "library": "bootstrap-datepicker@1.9.0",
+      "destination": "wwwroot/lib/datepicker",
+      "files": [
+        "css/bootstrap-datepicker.css",
+        "css/bootstrap-datepicker.standalone.css",
+        "css/bootstrap-datepicker3.css",
+        "css/bootstrap-datepicker3.min.css",
+        "css/bootstrap-datepicker3.standalone.css",
+        "js/bootstrap-datepicker.js"
+      ]
+    }
+  ]
+}
